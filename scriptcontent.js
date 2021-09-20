@@ -1,4 +1,3 @@
-<script>
 //*********************************************************//
 //Create context, start of file
 var c;
@@ -3869,4 +3868,3 @@ if(blackOutStatus==false && whiteOutStatus==false && redOutStatus==false){
 	
 }/*close init function*/
 
-</script>
